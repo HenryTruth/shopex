@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="465.337" height="588.088" viewBox="0 0 465.337 588.088">
+  <defs>
+    <path id="path-1" fill-rule="evenodd" d="M324.81711713 135.9375446s68.3550267 61.08657023 107.82191713 161.92125123c39.46689042 100.834681-2.2574659 174.6580934-88.17480428 241.61087577-85.91733837 66.95278236-253.47525267 23.91164267-301.61159802-52.9119499-48.13634535-76.82359258-40.00845597-188.69892587 0-256.0615136C82.86108793 163.13362039 203.56831976-2.13484017 216.58832484 7.9067878c13.02000509 10.04162798 108.22879229 128.0307568 108.22879229 128.0307568z"/>
+    <filter id="filter-2" width="200%" height="200%" x="-50%" y="-50%" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" in="SourceAlpha" result="shadow-1-feOffset-shadow"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="2.41"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="linearGradient-3" x1="228.668" x2="228.668" y1="7.469" y2="572.619" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(20,14,16)"/>
+      <stop offset=".24" stop-color="rgb(0,104,112)"/>
+      <stop offset=".51" stop-color="rgb(87,155,161)"/>
+      <stop offset="1" stop-color="rgb(227,96,37)"/>
+      <stop offset="1" stop-color="rgb(255,255,255)"/>
+    </linearGradient>
+  </defs>
+  <g transform="rotate(-177.999935 228.66846587 290.04407495)">
+    <use fill="black" stroke="black" stroke-opacity="0" stroke-width="0" filter="url(#filter-2)" xlink:href="#path-1"/>
+    <use fill="url(#linearGradient-3)" xlink:href="#path-1"/>
+  </g>
+</svg>

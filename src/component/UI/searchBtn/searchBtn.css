@@ -1,0 +1,8 @@
+.searchBtn{
+    display: none;
+}
+@media (min-width: 500px){
+    .searchBtn{
+        display: block;
+    }
+}

@@ -1,0 +1,32 @@
+.categories{
+    background: white;
+}
+
+@media(min-width:350px){
+
+}
+
+@media(min-width:640px){
+    .categories{
+        margin-left:5rem;
+    }
+}
+
+@media(min-width:768px){
+    .categories{
+        margin-left:12rem;
+    }
+
+}
+
+@media(min-width:1024px){
+    .categories{
+        margin-left:20rem;
+    }
+}
+
+@media(min-width:1280px){
+    .categories{
+        margin-left:38rem;
+    }
+}

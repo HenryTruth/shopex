@@ -1,0 +1,9 @@
+.Kart{
+    display: none;
+}
+
+@media(min-width:500px){
+    .Kart{
+        display:block;
+    }
+}
